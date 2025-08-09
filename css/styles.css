@@ -1,19 +1,20 @@
 /* Reset some default styles */
+
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
-}
+}   
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f2e0;
+    background-color: #C1BAA1;
     color: #4c3c32;
 }
 
 header {
     background-color: #fff;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    padding: 15px;
 }
 
 nav {
@@ -45,14 +46,15 @@ nav a:hover {
 
 .hero {
     text-align: center;
-    padding: 150px 0;
+    padding: 180px 0;
     background-image: url('hero-bg.jpg');
     background-size: cover;
     color: white;
 }
 
 .hero h1 {
-    font-size: 36px;
+    font-family: Verdana;
+    font-size: 40px;
     margin-bottom: 20px;
 }
 
@@ -74,12 +76,46 @@ nav a:hover {
     background-color: #7e685b;
 }
 
+.container {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.container h3 {
+    flex-basis: 100%;
+    text-align: center;
+    font-size: 24px;
+    margin: 40px 0 20px;
+}
+
+.gallery {
+    margin: 5px;
+    width: 300px;
+}
+
+.gallery img {
+    width: 300px;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
 .menu {
     padding: 100px 0;
     text-align: center;
+    background-color: #D7D3BF;
 }
 
 .menu h2 {
+    font-family: Verdana;
     font-size: 30px;
     margin-bottom: 20px;
 }
@@ -91,6 +127,7 @@ nav a:hover {
 }
 
 .about h2 {
+    font-family: Verdana;
     font-size: 30px;
     margin-bottom: 20px;
 }
@@ -109,6 +146,7 @@ nav a:hover {
 }
 
 .contact h2 {
+    font-family: Verdana;
     font-size: 30px;
     margin-bottom: 20px;
 }
@@ -116,6 +154,10 @@ nav a:hover {
 .contact p {
     font-size: 18px;
     margin-bottom: 40px;
+}
+
+.contact a{
+    color: grey;
 }
 
 footer {
