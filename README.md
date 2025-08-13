@@ -22,3 +22,14 @@ ___
 #### *Escape the ordinary at our cozy, animal-themed cafe, where the warm, inviting atmosphere is filled with charming decor and delicious treats. Every corner is a delightful discovery, from the paw print coasters to the cat-shaped pastries. It's the perfect spot to relax, sip a latte, and enjoy a break from the everyday hustle~* 🐶😺
 ___
 # About the authors
+
+**Name:** Juan Miguel M. Malate  
+**Email:** [202380200@psu.palawan.edu.ph](202380200@psu.palawan.edu.ph)
+
+<img src=img/jm-profilepic.jpg alt="JM-ProfilePic" style="width: 100px; border-radius: 50%;"> <a href=https://www.facebook.com/jmalatte><img src=img/Facebook.png alt="facebook-icon" style="width: 100px; border-radius: 50%;"></a> <a href=https://github.com/ag3ntk1wi><img src=img/Github.png alt="github-icon" style="width: 100px; border-radius: 50%;"></a>
+
+**Name:** Kenneth Vincent B. Castillo  
+**Email:** [202380191@psu.palawan.edu.ph](202380191@psu.palawan.edu.ph)
+
+<img src=img/kenneth-profilepic.jpg alt="Kenneth-ProfilePic" style="width: 100px; border-radius: 50%;"> <a href=https://www.facebook.com/kenneth.castillo.316885><img src=img/Facebook.png alt="facebook-icon" style="width: 100px; border-radius: 50%;"></a> <a href=https://github.com/CastleKen><img src=img/Github.png alt="github-icon" style="width: 100px; border-radius: 50%;"></a>
+
